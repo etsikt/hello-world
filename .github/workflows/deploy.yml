@@ -18,6 +18,7 @@ jobs:
       with:
         inlineScript: |
             az storage blob upload-batch --account-name udirdit --auth-mode key -d sandbox -s dist
+            az storage blob upload-batch --account-name udirdit --auth-mode key -d sandbox -s norway
 
   # Azure logout
     - name: logout
