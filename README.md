@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Hallo verden
+Hello world
